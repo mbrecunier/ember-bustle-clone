@@ -1,0 +1,24 @@
+{ "articles": [{
+    "title": "Three tricks for emergency cheese: You won't believe #2!",
+    "author": "ChriChri Yungz",
+    "date": "July 4th, 2015",
+    "image": "http://cdn1.theodysseyonline.com/files/2015/07/27/635735527808961161-1109408316_Products02956_BabyLG.png",
+    "content": "Let me tell you all about it. When I heard the news, I was all like no way. But way, man! Emergency cheese is what it is. Emergency cheese is where it is AT! I am so excited to share this with you. So. Cheese. Cheese. Cheese!!!!!",
+    "tag": ["food", "cheese", "emergencies", "lifehacks"]
+  }, {
+    "title": "Favorite Saturday Morning Life Hacks",
+    "author": "Adamamam",
+    "date": "August 30th, 2013",
+    "image": "",
+    "content": "You know how it is. We all know how it is. You wake up Saturday morning and you don't want to do anything. Luckily, we talked to some experts and they shared their most successful tips for making the most of the typical lazy Saturday. First step: wake up. You may want to skip past this step, but it is truly essential in the success of your Saturday. Step two: open your eyes. This one is optional, but it might help with the next one. Step three: eat ice cream. It is much easier to find ice cream with your eyes open, but we have heard stories of some people memorizing the layout of their gigantic houses and being able to reach the ice cream by calling for the maid.",
+    "tag": ["lifehacks", "icecream", "lifestyle", "richpersonproblems"]
+  }, {
+    "title": "3 Tips Your Epicodus Instructors DON'T Want You To Know!",
+    "author": "Evor Trevely",
+    "date": "March 29th, 2016",
+    "image": "",
+    "content": "You may have signed up for code school thinking that you wanted to learn some things, but boy were you mistaken. Starting at Epicodus became a terrible thing for you and now you and your dinosaurs want out! Luckily, you can waste away in the time you have committed to the school and still pass your code reviews by following these 3 keys to success. First, train your dinosaurs to write your code for you! Second, turtle pictures are sure to make any instructor ignore the fact that your app doesn't function and ensure that they give you passing marks! Third, if you spend more than $200 a week at the Avanti Market...",
+    "tag": ["lifehacks","school", "turtles", "personal-finance"]
+  }]
+
+}
